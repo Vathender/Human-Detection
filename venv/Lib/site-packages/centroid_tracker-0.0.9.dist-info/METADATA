@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: centroid-tracker
+Version: 0.0.9
+Summary: A small centroid tracker library based off https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+Home-page: https://github.com/balbatross/centroid-tracker
+Author: Ross Leitch
+Author-email: ross@end-game.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: scipy
+Requires-Dist: numpy
+
+UNKNOWN
+
+
